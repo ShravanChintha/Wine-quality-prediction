@@ -1,0 +1,2 @@
+# Wine-quality-prediction
+The dataset contains data related to the red variant of Portuguese “Vinho Verde” wine. The dataset is obtained from UC Irvine Machine Learning Repository. The UCI Machine Learning Repository is a collection of databases, domain theories and data generators which are used for analysing machine learning algorithms. This archive was created in 1987 by a few graduate students at UC Irvine. Since then, the archive has been used by students, educators, researchers etc., all over the world as a primary source of machine learning data sets.
